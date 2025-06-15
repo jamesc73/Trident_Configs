@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "ejecting"
         },
         "lane2": {
             "name": "lane2",
@@ -36,15 +36,15 @@
             "prep": true,
             "tool_loaded": false,
             "loaded_to_hub": false,
-            "material": "ASA",
+            "material": null,
             "spool_id": "",
-            "color": "#042DEF",
-            "weight": "0",
+            "color": "",
+            "weight": "",
             "extruder_temp": null,
             "runout_lane": "NONE",
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "ejecting"
+            "status": null
         },
         "lane3": {
             "name": "lane3",
