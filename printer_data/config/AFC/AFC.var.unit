@@ -35,7 +35,7 @@
             "buffer_status": "Advancing",
             "lane": 2,
             "map": "T2",
-            "load": true,
+            "load": false,
             "prep": false,
             "tool_loaded": true,
             "loaded_to_hub": false,
