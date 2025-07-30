@@ -21,7 +21,7 @@
             "color": "#000000",
             "weight": 941,
             "extruder_temp": null,
-            "runout_lane": "NONE",
+            "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded"
@@ -47,7 +47,7 @@
             "color": "#FFFFFF",
             "weight": 979,
             "extruder_temp": null,
-            "runout_lane": "NONE",
+            "runout_lane": null,
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
             "status": "Tooled"
@@ -73,7 +73,7 @@
             "color": "#807E7E",
             "weight": 989,
             "extruder_temp": null,
-            "runout_lane": "NONE",
+            "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded"
@@ -99,7 +99,7 @@
             "color": "#2F4F9D",
             "weight": 986,
             "extruder_temp": null,
-            "runout_lane": "NONE",
+            "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded"
